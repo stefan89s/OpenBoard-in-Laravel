@@ -1,0 +1,101 @@
+.article-space {
+	width: 960px;
+	height: 1100px;
+	float: left;
+	background-color: #c1388a;
+	margin: 0px;
+	margin-top: 20px;
+}
+
+.container {
+	
+}
+
+.form-spacing {
+	margin-bottom: 20px;
+}
+
+.article-box {
+	width: 300px;
+	height: 340px;
+	margin: 10px;
+	float: left;
+	background-color: #27396d;
+}
+
+.article {
+	margin: 10px;
+}
+
+.article h2 {
+	color: #b1c9bd;
+}
+
+.article h2:hover {
+	color: #819b8e;
+}
+
+.article p {
+	color:  #b1c9bd;
+}
+
+.paginate {
+	margin-left: 400px;
+	margin-right: 200px;
+}
+
+.categories {
+	width: 160px;
+	padding-bottom: 50px;
+	float: left;
+	background-color: green;
+	margin: 10px;
+	margin-top: 40px;
+}
+
+.categories h3 {
+	margin-top: 20px;
+	margin-left: 15px;
+	color: white;
+}
+
+.categories h3:hover {
+	color: #56073d;
+}
+
+/*
+
+start page
+
+*/
+
+.start {
+	background-color: purple;
+	width: 1900px;
+	height:  700px;
+	padding:0px;
+	padding-top: 50px;
+}
+
+.start p {
+	width: 600px;
+	font-size: 50px;
+	margin-left: 200px;
+	margin-right: 0px;
+	color: #3d993a;
+}
+
+.start h2 {
+	width: 600px;
+	margin-left: 200px;
+	margin-right: 0px;
+	color: #3d993a;
+} 
+
+.start-welcome {	
+	width: 200px;
+	color: #368c2b;
+	margin-left: 250px;
+	margin-top: 50px;
+} 
+
